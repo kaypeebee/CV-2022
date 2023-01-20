@@ -2659,9 +2659,9 @@ body {
     text-transform: uppercase;
     font-weight: 700; }
   .dropdown-menu.dropdown-primary {
-    background-color: #33813a; }
+    background-color: rgba(0, 0, 123, 0.88); }
     .dropdown-menu.dropdown-primary:before {
-      color: #33813a; }
+      color: rgba(0, 0, 123, 0.88); }
     .dropdown-menu.dropdown-primary .dropdown-header:not([href]):not([tabindex]) {
       color: rgba(255, 255, 255, 0.8); }
     .dropdown-menu.dropdown-primary .dropdown-item {
