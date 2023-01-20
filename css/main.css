@@ -77,6 +77,12 @@
   line-height: 11px;
   width: 50% !important; }
 
+
+.bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-darkblue,
+.bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-brown {
+  color: #fff;
+  background: #00007b; }
+
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-brown,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-brown {
   color: #fff;
@@ -1254,13 +1260,13 @@
     top: 1px; }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: #00007b;
   color: #FFFFFF; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
   .show > .btn-primary.dropdown-toggle:hover {
-    background-color: #40a249;
+    background-color: #2CA8FF;
     color: #FFFFFF;
     box-shadow: none; }
   .btn-primary:hover {
@@ -5153,7 +5159,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid rgba(0, 0, 123, 0.88);
   border-radius: 50%;
   height: 180px;
   width: 180px;
