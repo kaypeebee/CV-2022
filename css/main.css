@@ -2482,8 +2482,8 @@ body {
       border-color: rgba(255, 255, 255, 0.5);
       color: #FFFFFF; }
   .nav-tabs.nav-tabs-primary > .nav-item > .nav-link.active {
-    border-color: #378C3F;
-    color: #378C3F; }
+    border-color: rgba(0, 0, 123, 0.88);
+    color: rgba(0, 0, 123, 0.88); }
   .nav-tabs.nav-tabs-info > .nav-item > .nav-link.active {
     border-color: #2CA8FF;
     color: #2CA8FF; }
