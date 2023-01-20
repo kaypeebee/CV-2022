@@ -2060,24 +2060,24 @@ textarea.form-control {
   .progress-container.progress-success .progress {
     background: rgba(24, 206, 15, 0.3); }
   .progress-container.progress-success .progress-bar {
-    background: #18ce0f; }
+    background: #2CA8FF; }
   .progress-container.progress-success .progress-value,
   .progress-container.progress-success .progress-badge {
-    color: #18ce0f; }
+    color: #2CA8FF; }
   .progress-container.progress-warning .progress {
     background: rgba(255, 178, 54, 0.3); }
   .progress-container.progress-warning .progress-bar {
-    background: #FFB236; }
+    background: #2CA8FF; }
   .progress-container.progress-warning .progress-value,
   .progress-container.progress-warning .progress-badge {
-    color: #FFB236; }
+    color: #2CA8FF; }
   .progress-container.progress-danger .progress {
     background: rgba(255, 54, 54, 0.3); }
   .progress-container.progress-danger .progress-bar {
-    background: #FF3636; }
+    background: #2CA8FF; }
   .progress-container.progress-danger .progress-value,
   .progress-container.progress-danger .progress-badge {
-    color: #FF3636; }
+    color: #2CA8FF; }
 
 /*           badges             */
 .badge {
@@ -2374,7 +2374,7 @@ body {
   background-color: #888;
   margin: 20px auto; }
   .separator.separator-primary {
-    background-color: #378C3F; }
+    background-color: rgba(0, 0, 123, 0.88); }
 
 .nav-pills .nav-item .nav-link {
   padding: 0 15.5px;
@@ -2604,7 +2604,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #378C3F !important; }
+  background-color: #00007b !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
