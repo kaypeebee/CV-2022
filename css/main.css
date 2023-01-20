@@ -1482,9 +1482,9 @@
     .btn-neutral.btn-success:hover, .btn-neutral.btn-success:focus, .btn-neutral.btn-success:active {
       color: #1beb11; }
   .btn-neutral.btn-default {
-    color: #888; }
+    color: rgba(0, 0, 123, 0.88); }
     .btn-neutral.btn-default:hover, .btn-neutral.btn-default:focus, .btn-neutral.btn-default:active {
-      color: #979797; }
+      color: #2CA8FF; }
   .btn-neutral.active, .btn-neutral:active, .btn-neutral:active:focus, .btn-neutral:active:hover, .btn-neutral.active:focus, .btn-neutral.active:hover,
   .show > .btn-neutral.dropdown-toggle,
   .show > .btn-neutral.dropdown-toggle:focus,
@@ -2212,9 +2212,9 @@ small {
   font-size: 60%; }
 
 a {
-  color: #378C3F; }
+  color: rgba(0, 0, 123, 0.88); }
   a:hover, a:focus {
-    color: #378C3F; }
+    color: #2CA8FF; }
 
 h1, .h1 {
   font-size: 3.5em;
