@@ -2046,38 +2046,38 @@ textarea.form-control {
   .progress-container.progress-primary .progress {
     background: rgba(0, 0, 123, 0.4); }
   .progress-container.progress-primary .progress-bar {
-    background: #2CA8FF; }
+    background: rgba(0, 0, 123, 0.88); }
   .progress-container.progress-primary .progress-value,
   .progress-container.progress-primary .progress-badge {
-    color: #2CA8FF; }
+    color: rgba(0, 0, 123, 0.88); }
   .progress-container.progress-info .progress {
     background: rgba(44, 168, 255, 0.3); }
   .progress-container.progress-info .progress-bar {
-    background: #2CA8FF; }
+    background: rgba(0, 0, 123, 0.88); }
   .progress-container.progress-info .progress-value,
   .progress-container.progress-info .progress-badge {
-    color: #2CA8FF; }
+    color: rgba(0, 0, 123, 0.88); }
   .progress-container.progress-success .progress {
     background: rgba(24, 206, 15, 0.3); }
   .progress-container.progress-success .progress-bar {
-    background: #2CA8FF; }
+    background: rgba(0, 0, 123, 0.88); }
   .progress-container.progress-success .progress-value,
   .progress-container.progress-success .progress-badge {
-    color: #2CA8FF; }
+    color: rgba(0, 0, 123, 0.88); }
   .progress-container.progress-warning .progress {
     background: rgba(255, 178, 54, 0.3); }
   .progress-container.progress-warning .progress-bar {
-    background: #2CA8FF; }
+    background: rgba(0, 0, 123, 0.88); }
   .progress-container.progress-warning .progress-value,
   .progress-container.progress-warning .progress-badge {
-    color: #2CA8FF; }
+    color: rgba(0, 0, 123, 0.88); }
   .progress-container.progress-danger .progress {
     background: rgba(255, 54, 54, 0.3); }
   .progress-container.progress-danger .progress-bar {
-    background: #2CA8FF; }
+    background: rgba(0, 0, 123, 0.88); }
   .progress-container.progress-danger .progress-value,
   .progress-container.progress-danger .progress-badge {
-    color: #2CA8FF; }
+    color: #rgba(0, 0, 123, 0.88); }
 
 /*           badges             */
 .badge {
